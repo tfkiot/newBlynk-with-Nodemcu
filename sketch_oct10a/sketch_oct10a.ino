@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID           "TMPLNhVJ-0aV"
+#define BLYNK_TEMPLATE_ID           "auto generated"
 #define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "EMSzRfgj77JFztQT_doaDu0v0306xwyM"
+#define BLYNK_AUTH_TOKEN            "auto generated"
 
 #define BLYNK_PRINT Serial
 
@@ -9,8 +9,8 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "HaveFun";
-char pass[] = "";
+char ssid[] = "Your SSID";
+char pass[] = "Password";
 
 BLYNK_WRITE(V0)
 {
